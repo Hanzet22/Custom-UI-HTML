@@ -9,7 +9,7 @@
 (function () {
   'use strict';
 
-  const RAW_URL = 'https://raw.githubusercontent.com/Hanzet22/Custom-UI-HTML/main/infurnity-ui.html';
+  const RAW_URL = 'https://raw.githubusercontent.com/Hanzet22/Custom-UI-HTML/main/Infurnity/Infurnity-Custom-UI.html';
   const TARGET_HOST = 'infurnity.com';
 
   // Cek domain dulu
